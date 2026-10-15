@@ -43,3 +43,8 @@ print("Alternativ-Text:", alternativText)
 # int i=0;
 # printf("Bitte geben Sie eine Zahl ein: ");
 # scanf(&i);
+
+def main() :
+    print("Hallo Main!")
+
+main()
