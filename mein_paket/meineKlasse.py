@@ -5,4 +5,4 @@ class MeineKlasse:
         # self in Python entspricht dem this - pointer n C++
 
         # self name wird eine Instanz - Variable
-        
+        self.name = "Eine Klasse"
