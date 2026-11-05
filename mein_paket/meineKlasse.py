@@ -2,4 +2,7 @@
 class MeineKlasse:
     #Konstruktor
     def __init__(self):
-        pass
+        # self in Python entspricht dem this - pointer n C++
+
+        # self name wird eine Instanz - Variable
+        
