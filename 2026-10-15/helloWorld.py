@@ -2,20 +2,23 @@
 #/*
 #Kommentare Klappen nicht!!!!
 
-print("Hallo Welt Python!!!!")
+# Datei: helloWorld.py
+#printf("Hallo C");
 
-#Ausfuehren auf der CMD:
+print("Hallo Welt Python!!!\n Super!")
+
+# Ausfuehren auf der CMD:
 # gcc helloWorld.py -> FAIL!
 # korrekt:
-#python helloWorld.py
-#bzw.
+# python helloWorld.py
+# bzw.
 # py helloWorld.py
 
-#pushen
+# pushen ins REPO
 # git status
 # git add helloWorld.py
 # git status
 # git commit -m "ein kleines Hello World in Python"
 # git push
-# git log --oneline
+# git log --online
 # git status

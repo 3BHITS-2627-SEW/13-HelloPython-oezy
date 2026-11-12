@@ -1,3 +1,1 @@
-# 13-HelloPython-oezy
-
-Erstes Python-Projekt mit GitHub
+# 3BHITS-2026-27-SEW-Lessons
