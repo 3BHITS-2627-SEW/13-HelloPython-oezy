@@ -30,6 +30,15 @@ def main(einParameter : str = "nix", einZweiterParameter : str = "aNix") -> None
     einObjekt = MeineKlasse()
     # 2. mit print ausgeben
     print(einObjekt)
+    print(einObjekt, sep="\n")
+    #print(einObjket, "BLABLA", sep="\n")
+
+    #gib die Liste aus:
+    print(*meineListe, sep=" - ")
+    # * entpackt die Liste
+    # und fuegt diese 1:1 als Parameter in
+    # den Funktionsaufruf ein
+    print("Das vierte Element ist:", meineListe[3], sep="\n")
 
 
 #rufe die Haupt-Funktion:
